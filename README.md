@@ -31,6 +31,7 @@ BDC Tooltip is a small, standalone browser Add‑on (Manifest V3) that improves 
 ## Changelog
 
 - **v1.0.0:** Initial release — core video controls, frame stepping, UI improvements, and watermark removal.
+- **v1.0.1:** Fixed dynamic page reload handling so the Settings button reappears reliably.  Improved watermark handling to re-apply after player/content refreshes.
 
 ## Credits & Feedback
 
